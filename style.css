@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+   padding: 0;
+}
+
+.Header{
+
+    background-color: blueviolet;
+}
+.Header img{
+
+    border-radius: 15%;
+}
+.navbar{
+
+    padding-top: 20px !important;
+
+}
+
+.nav-item{
+
+    margin-left: 50px;
+    margin-bottom: 10px;
+
+}
+
+.nav-link{
+
+    color: white !important;
+    font-size: 12px;
+    padding: 0 0 5px 0 !important;
+    display: unset !important;
+}
+
+.navbar-brand img{
+
+     width: 125px;
+
+
+}
+
+.fa-bars{
+
+    color: white;
+    font-size: 40px !important;
+
+}
+
+.navbar-toggler{
+
+    border: 0 !important;
+    outline: none !important;
+    padding: initial !important;
+}
+
+.active-home{
+
+    border-bottom: 2px solid white;
+}
+
+.nav-link:hover{
+
+    border-bottom: 2px solid white;
+}
+
+.banner{
+
+    margin-top: 5%;
+    color: white;
+     
+}
+.banner h1{
+
+    margin: 0 75px 25px;
+    font-weight: 600;
+    font-size: 50px;
+
+}
+.banner p{
+
+    margin-left: 75px;
+}
+
+.banner img{
+
+    max-height: 600px;
+    padding: auto;
+}
+
+.banner a{
+
+    padding: 12px;
+    width: 150px;
+    display: inline-block;
+    background: #6900d1;
+    color: white;
+    text-decoration: none !important;
+    border: 2px solid white;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 14px;
+
+}
+
+.banner a:hover{
+    color: white;
+}
+
+.express-btn {
+
+    background: white !important;
+    color: black !important;
+    margin-right: 5px;
+    margin-left: 100px;
+}
+
+/* */
+
+.Services {
+
+    margin: 75px 0;
+
+}
+
+.title{
+
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.subtitle{
+
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.service-box{
+
+    padding: 0 35px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.service-box img{
+
+    width: 400px;
+    height: 400px;
+    margin-top: 30px;
+      
+     
+}
+
+.service-box h6{
+    margin-left: 100px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #777;
+}
+
+.fa-arrow-right {
+
+    font-size: 22px;
+    margin-top: 10px;
+    margin-bottom: 35px;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
